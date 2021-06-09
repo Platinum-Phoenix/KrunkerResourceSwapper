@@ -1,0 +1,24 @@
+{
+  "name": "krunker-css",
+  "version": "1.0.0",
+  "description": "To do it on Chrome you need this: Download & Install Krunker Resource Swapper [here](https://github.com/Tehchy/Krunker-Resource-Swapper) .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass css/main_custom.scss css/main_custom.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Platinum-Phoenix/KrunkerResourceSwapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Platinum-Phoenix/KrunkerResourceSwapper/issues"
+  },
+  "homepage": "https://github.com/Platinum-Phoenix/KrunkerResourceSwapper#readme",
+  "dependencies": {
+    "sass": "^1.34.1"
+  }
+}
